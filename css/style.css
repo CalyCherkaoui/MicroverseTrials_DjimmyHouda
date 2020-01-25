@@ -1,0 +1,10 @@
+@media screen and (max-width: 600px) {
+    #navbar {
+      float: none;
+      width: 100%;
+    }
+  }
+
+#welcome-section {
+  height: 100vh;
+}
